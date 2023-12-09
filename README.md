@@ -1,4 +1,6 @@
-<div align = "center">Hi there 👋</div>
+<div id=header align = "center">Hi there 👋
+<div id=contentHeader align = center > Junior Web dev</div>
+</div>
 
 <!--
 **EBLOTTIN/EBLOTTIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
