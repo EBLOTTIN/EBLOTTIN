@@ -5,7 +5,7 @@
 <div class= webStack>
   <h1 class= titleMainLanguages align= center>My Stack</h1>
   <div class= webStackContent align= center content= inline>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt= "HTML" width= 80 height= 80/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt= "VsCode" width= 80 height= 80/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt= "HTML" width= 80 height= 80/>
     <img src="" alt= "CSS"/>
     <img src="" alt= "JavaScript"/>
