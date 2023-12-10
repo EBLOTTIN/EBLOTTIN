@@ -1,10 +1,12 @@
 <div id= header align= center>Hi there 👋
 <div class= contentHeader align= center>Junior Web dev</div>
+<div> <img src="figure/web dev.gif" alt="webdev"/></div>
 </div>
 <div class= webStack>
   <h1 class= titleMainLanguages align= center>My Stack</h1>
   <div class= webStackContent align= center content= inline>
-    <img src="" alt= "HTML"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt= "HTML" width= 80 height= 80/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt= "HTML" width= 80 height= 80/>
     <img src="" alt= "CSS"/>
     <img src="" alt= "JavaScript"/>
     <img src="" alt= "PHP"/>
