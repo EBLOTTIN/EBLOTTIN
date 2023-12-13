@@ -7,9 +7,9 @@
   <div class= webStackContent align= center content= inline>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt= "VsCode" width= 80 height= 80/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt= "HTML" width= 80 height= 80/>
-    <img src="" alt= "CSS"/>
-    <img src="" alt= "JavaScript"/>
-    <img src="" alt= "PHP"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt= "CSS" width= 80 height= 80/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt= "JavaScript" width= 80 height= 80/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt= "PHP" width= 80 height= 80/>
   </div>
   <div class= webStackLibrairies></div>
   <h1 class= titleLibraries align= center>Libraries</h1>
