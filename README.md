@@ -12,7 +12,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt= "PHP" width= 80 height= 80/>
   </div>
   <div class= webStackLibrairies align= center>
-  <h1 class= titleLibraries align= center>Libraries</h1>
+  <h1 class= titleLibraries>Libraries</h1>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt= "ReactJS" width= 80 height= 80/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt= "NodeJS" width= 80 height= 80/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt= "ExpressJS" width= 80 height= 80/>
