@@ -13,6 +13,11 @@
   </div>
   <div class= webStackLibrairies></div>
   <h1 class= titleLibraries align= center>Libraries</h1>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt= "ReactJS" width= 80 height= 80/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt= "NodeJS" width= 80 height= 80/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt= "ExpressJS" width= 80 height= 80/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" alt= "Symfony" width= 80 height= 80/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/doctrine/doctrine-original.svg" alt= "Doctrine" width= 80 height= 80/>
 </div>
 
 
