@@ -1,6 +1,6 @@
 <div id= header align= center>Hi there 👋
 <div class= contentHeader align= center>
-  Enzo BLOTTIN Junior Web dev. 21 years old. 
+  Enzo BLOTTIN Junior Web dev. 22 years old. 
 </div>
 <div> <img src="figure/web dev.gif" alt="webdev"/></div>
 </div>
